@@ -1,0 +1,24 @@
+{
+  "id": "a1b121a7-4516-4dcd-9b81-623eb795782f",
+  "name": "IRPF",
+  "publisher": "Active Business & Technology S.L",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement":"http://www.grupoactive.es",
+  "EULA":"http://www.grupoactive.es",
+  "help":"http://www.grupoactive.es",
+  "url": "http://www.grupoactive.es",
+  "logo": "logo_active.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "showMyCode": true,
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
