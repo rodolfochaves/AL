@@ -4,7 +4,7 @@ codeunit 50100 "Extensiones IRPF"
 
   // REQ-02 - IRPF
   // REQ-57 - Ampliacion IRPF
-
+  //DEMO ACTIVE
 
   trigger OnRun();
   begin
