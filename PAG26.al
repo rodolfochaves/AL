@@ -2,6 +2,7 @@ pageextension 50100 pageextension50100 extends "Vendor Card"
 {
     // version NAVW110.00.00.18197,NAVES10.00.00.18197,AB
     //CAMBIOS GITHUB
+    //DEMO ACTIVE
 
     layout
     {
